@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalTask", "FinalTask\FinalTask.csproj", "{2E925175-CE74-4CB8-B371-9E52388FF82A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{94F1747C-F783-4137-B9B1-75F5EDC87CAB}"
+	ProjectSection(SolutionItems) = preProject
+		Building.cs = Building.cs
+		Car.cs = Car.cs
+		Flat.cs = Flat.cs
+		House.cs = House.cs
+		JEU.cs = JEU.cs
+		team.cs = team.cs
+		Vehicle.cs = Vehicle.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Debug|ARM.Build.0 = Debug|ARM
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Debug|ARM.Deploy.0 = Debug|ARM
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Debug|x64.ActiveCfg = Debug|x64
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Debug|x64.Build.0 = Debug|x64
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Debug|x64.Deploy.0 = Debug|x64
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Debug|x86.ActiveCfg = Debug|x86
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Debug|x86.Build.0 = Debug|x86
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Debug|x86.Deploy.0 = Debug|x86
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Release|ARM.ActiveCfg = Release|ARM
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Release|ARM.Build.0 = Release|ARM
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Release|ARM.Deploy.0 = Release|ARM
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Release|x64.ActiveCfg = Release|x64
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Release|x64.Build.0 = Release|x64
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Release|x64.Deploy.0 = Release|x64
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Release|x86.ActiveCfg = Release|x86
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Release|x86.Build.0 = Release|x86
+		{2E925175-CE74-4CB8-B371-9E52388FF82A}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF722BB2-4C69-4BEE-A027-2E2B01F98BC1}
+	EndGlobalSection
+EndGlobal
